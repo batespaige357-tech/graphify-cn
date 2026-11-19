@@ -1,0 +1,11 @@
+Graphify
+Copyright 2026 Safi Shamsi and the Graphify contributors.
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Portions of this software were contributed under the MIT License prior to the
+relicensing and remain available under those terms. The original MIT license
+text is retained in LICENSE-MIT.
+
+Graphify CN adds a Chinese CLI entry, a local graph digest, and Chinese usage guidance.
+Changes are maintained in this repository; see CHANGES-CN.md.
